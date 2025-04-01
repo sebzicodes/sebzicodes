@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @sebzicodes
 - 👀 I’m interested in full stack development
-- 🌱 I’m currently learning HTML
+- 🌱 I’m currently learning JavaScript
 - 💞️ I’m looking to collaborate on propjects to better my skill
 - 📫 you can reach me by messeging me on github
 - 😄 Pronouns: he/him
