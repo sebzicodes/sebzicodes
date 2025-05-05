@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @sebzicodes
 - 👀 I’m interested in full stack development and craft cocktails :P
 - 🌱 I’m currently learning JavaScript, CSS, and HTML
-- 💞️ I’m looking to collaborate on propjects to better my skill and understanding of the art of coding
+- 💞️ I’m looking to collaborate on projects to better my skill and understanding of the art of coding
 - 📫 you can reach me by messeging me on github and my platforms under Gabrielsebastiandavis (IG)
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: 
